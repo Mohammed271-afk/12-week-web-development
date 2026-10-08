@@ -30,7 +30,7 @@ quantity++;
 console.log(quantity);
 quantity--;
 console.log(quantity);
-
+PS C:\Users\dell\Desktop\12 week plan>
 //case sensetivity
 let score = 4;
 let Score = 3;
