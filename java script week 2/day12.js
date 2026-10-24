@@ -2,6 +2,7 @@ const student ={
    name :"Mohammed",
    age :22
  }; 
+
  const studentxt = JSON.stringify(student);
  console.log(studentxt);
 
@@ -16,6 +17,7 @@ const heading = document.getElementById("#info");
  const message = document.querySelecter("#title");
   message.textContent =" i am trying my best";
   console.log(message.Content)  ; 
+
 const info = document.querySelector("#info");
 info.textContent = "I am learning JavaScript";
 
